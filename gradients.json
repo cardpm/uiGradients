@@ -1,7 +1,27 @@
 [
     {
+        "name": "Purple Love",
+        "colors": ["#cc2b5e", "#753a88"]
+    },
+    {
+        "name": "Sexy Blue",
+        "colors": ["#2193b0", "#6dd5ed"]
+    },
+    {
+        "name": "Blooker20",
+        "colors": ["#e65c00", "#F9D423"]
+    },
+    {
+        "name": "Sea Blue",
+        "colors": ["#2b5876", "#4e4376"]
+    },
+    {
         "name": "Nimvelo",
         "colors": ["#314755", "#26a0da"]
+    },
+    {
+        "name": "Hazel",
+        "colors": ["#77A1D3", "#79CBCA", "#E684AE"]
     },
     {
         "name": "Noon to Dusk",
@@ -44,6 +64,10 @@
         "colors": ["#3CA55C", "#B5AC49"]
     },
     {
+        "name": "Monte Carlo",
+        "colors": ["#CC95C0", "#DBD4B4", "#7AA1D2"]
+    },
+    {
         "name": "Horizon",
         "colors": ["#003973", "#E5E5BE"]
     },
@@ -78,6 +102,10 @@
     {
         "name": "Purple Paradise",
         "colors": ["#1D2B64", "#F8CDDA"]
+    },
+    {
+        "name": "Stripe",
+        "colors": ["#1FA2FF", "#12D8FA", "#A6FFCB"]
     },
     {
         "name": "Sea Weed",
@@ -408,8 +436,12 @@
         "colors": ["#6441A5", "#2a0845"]
     },
     {
+        "name": "Atlas",
+        "colors": ["#FEAC5E", "#C779D0", "#4BC0C8"]
+    },
+    {
         "name": "Instagram",
-        "colors": ["#517fa4", "#243949"]
+        "colors": ["#833ab4", "#fd1d1d", "#fcb045"]
     },
     {
         "name": "Flickr",
@@ -753,6 +785,10 @@
         "colors": ["#41295a", "#2F0743"]
     },
     {
+        "name": "Radar",
+        "colors": ["#A770EF", "#CF8BF3", "#FDB99B"]
+    },
+    {
         "name": "Ibiza Sunset",
         "colors": ["#ee0979", "#ff6a00"]
     },
@@ -765,7 +801,201 @@
         "colors": ["#67B26F", "#4ca2cd"]
     },
     {
+
         "name": "Vice City",
         "colors": ["#3494E6", "#EC6EAD"]
+    },
+    {
+        "name": "Jaipur",
+        "colors": ["#DBE6F6", "#C5796D"]
+
+    },
+    {
+        "name": "Cocoaa Ice",
+        "colors": ["#c0c0aa", "#1cefff"]
+    },
+    {
+        "name": "EasyMed",
+        "colors": ["#DCE35B", "#45B649"]
+    },
+    {
+        "name": "Rose Colored Lenses",
+        "colors": ["#E8CBC0", "#636FA4"]
+    },
+    {
+        "name": "What lies Beyond",
+        "colors": ["#F0F2F0", "#000C40"]
+    },
+    {
+        "name": "Roseanna",
+        "colors": ["#FFAFBD", "#ffc3a0"]
+    },
+    {
+        "name": "Honey Dew",
+        "colors": ["#43C6AC", "#F8FFAE"]
+    },
+    {
+        "name": "Under the Lake",
+        "colors": ["#093028", "#237A57"]
+    },
+    {
+        "name": "The Blue Lagoon",
+        "colors": ["#43C6AC", "#191654"]
+    },
+    {
+        "name": "Can You Feel The Love Tonight",
+        "colors": ["#4568DC", "#B06AB3"]
+    },
+    {
+        "name": "Very Blue",
+        "colors": ["#0575E6", "#021B79"]
+    },
+    {
+        "name": "Love and Liberty",
+        "colors": ["#200122", "#6f0000"]
+    },
+    {
+        "name": "Orca",
+        "colors": ["#44A08D", "#093637"]
+    },
+    {
+        "name": "Venice",
+        "colors": ["#6190E8", "#A7BFE8"]
+    },
+    {
+        "name": "Pacific Dream",
+        "colors": ["#34e89e", "#0f3443"]
+    },
+    {
+        "name": "Learning and Leading",
+        "colors": ["#F7971E", "#FFD200"]
+    },
+    {
+        "name": "Celestial",
+        "colors": ["#C33764", "#1D2671"]
+    },
+    {
+        "name": "Purplepine",
+        "colors": ["#20002c", "#cbb4d4"]
+    },
+    {
+        "name": "Sha la la",
+        "colors": ["#D66D75", "#E29587"]
+    },
+    {
+        "name": "Mini",
+        "colors": ["#30E8BF", "#FF8235"]
+    },
+    {
+        "name": "Maldives",
+        "colors": ["#B2FEFA", "#0ED2F7"]
+    },
+    {
+        "name": "Cinnamint",
+        "colors": ["#4AC29A", "#BDFFF3"]
+    },
+    {
+        "name": "Html",
+        "colors": ["#E44D26", "#F16529"]
+    },
+    {
+        "name": "Coal",
+        "colors": ["#EB5757", "#000000"]
+    },
+    {
+        "name": "Sunkist",
+        "colors": ["#F2994A", "#F2C94C"]
+    },
+    {
+        "name": "Blue Skies",
+        "colors": ["#56CCF2", "#2F80ED"]
+    },
+    {
+        "name": "Chitty Chitty Bang Bang",
+        "colors": ["#007991", "#78ffd6"]
+    },
+    {
+        "name": "Visions of Grandeur",
+        "colors": ["#000046", "#1CB5E0"]
+    },
+    {
+      "name": "Indian at Heart",
+      "colors": ["#FF9933", "#FFFFFF", "#138808"]
+    },
+    {
+        "name": "Crystal Clear",
+        "colors": ["#159957", "#155799"]
+    },
+    {
+        "name": "Mello",
+        "colors": ["#c0392b", "#8e44ad"]
+    },
+    {
+        "name": "Compare Now",
+        "colors": ["#EF3B36", "#FFFFFF"]
+    },
+    {
+        "name": "Meridian",
+        "colors": ["#283c86", "#45a247"]
+    },
+    {
+        "name": "Relay",
+        "colors": ["#3A1C71", "#D76D77", "#FFAF7B"]
+    },
+    {
+        "name": "Alive",
+        "colors": ["#CB356B", "#BD3F32"]
+    },
+    {
+        "name": "Scooter",
+        "colors": ["#36D1DC", "#5B86E5"]
+    },
+        {
+        "name": "Terminal",
+        "colors": ["#000000", "#0f9b0f"]
+    },
+    {
+        "name": "Telegram",
+        "colors": ["#1c92d2", "#f2fcfe"]
+    },
+    {
+        "name": "Crimson Tide",
+        "colors": ["#642B73", "#C6426E"]
+    },
+    {
+        "name": "Socialive",
+        "colors": ["#06beb6", "#48b1bf"]
+    },
+    {
+      "name": "Subu",
+      "colors": ["#0cebeb", "#20e3b2", "#29ffc6"]
+    },
+    {
+      "name": "Holy",
+      "colors": ["#EF00DF", "#E8FF59", "#73C105"]
+    },
+    {
+      "name": "Shift",
+      "colors": ["#000000", "#E5008D", "#FF070B"]
+    },
+    {
+      "name": "Clot",
+      "colors": ["#070000", "#4C0001", "#070000"]
+    },
+    {
+      "name": "Broken Hearts",
+      "colors": ["#d9a7c7", "#fffcdc"]
+    },
+    {
+      "name": "Kimoby Is The New Blue",
+      "colors": ["#396afc", "#2948ff"]
+    },
+    {
+      "name": "Dull",
+      "colors": ["#C9D6FF", "#E2E2E2"]
+    },
+    {
+      "name": "Purpink",
+      "colors": ["#7F00FF", "#E100FF"]
     }
 ]
